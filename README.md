@@ -1,4 +1,5 @@
-# Titanic Dataset Analysis 
+
+  # Titanic Dataset Analysis 
 
 ## Table of Contents 
 
@@ -10,6 +11,10 @@
 ### Project Overview
 
 This project focuses on exploring the Titanic dataset using SQL and creating a dynamic dashboard to visualize the insights. The analysis is designed for beginner-level SQL practitioners and demonstrates the process of data cleaning, querying, and visualization development. This project highlights key data trends such as survival rates, demographic influences, and ticket pricing patterns, providing a comprehensive understanding of the Titanic dataset.
+
+![Dashboard](picture)
+
+![Dashboard](https://github.com/user-attachments/assets/e43c6ad8-f5e6-4e78-853e-df0f5799df9d)
 
 ### Data Sources
 
